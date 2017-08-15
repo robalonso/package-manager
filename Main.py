@@ -8,6 +8,7 @@ from tkinter import messagebox
 text_button = "boton"
 text_dialog_title = "Salir"
 text_dialog_msg = "Desea cerrar el programa?"
+#El seba se la come atravesá#
 
 # Functions
 def button_click():
